@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import models.Patient;
-import Repositories.PatientRepository;
+import repositories.PatientRepository;
 import controllers.Status;
 
 

@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import models.Appointment;
 import models.Doctor;
 import models.Patient;
-import Repositories.DoctorRepository;
+import repositories.DoctorRepository;
 import controllers.Status;
 
 @Controller

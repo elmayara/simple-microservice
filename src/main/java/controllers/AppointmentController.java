@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import models.Appointment;
-import Repositories.AppointmentRepository;
+import repositories.AppointmentRepository;
 import controllers.Status;
 
 @Controller 
